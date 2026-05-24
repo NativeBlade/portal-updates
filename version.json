@@ -1,7 +1,7 @@
 {
     "bundle": {
-        "version": "1.0.21",
-        "url": "https://nativeblade.github.io/portal-updates/laravel-bundle-1.0.21.json.gz",
-        "minShellVersion": "1.0.21"
+        "version": "1.0.22",
+        "url": "https://nativeblade.github.io/portal-updates/laravel-bundle-1.0.22.json.gz",
+        "minShellVersion": "1.0.22"
     }
 }
